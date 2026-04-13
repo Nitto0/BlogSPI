@@ -1,4 +1,1 @@
-from . import post, user
-from flask_sqlalchemy import SQLAlchemy
-
-db = SQLAlchemy()
+from . import post, user, database

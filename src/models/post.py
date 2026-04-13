@@ -1,4 +1,4 @@
-from . import db
+from src.models.database import db
 
 
 class Post(db.Model):
